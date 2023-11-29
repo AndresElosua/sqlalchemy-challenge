@@ -1,8 +1,5 @@
 # Import the dependencies.
 
-from sqlalchemy import create_engine, inspect, MetaData
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
 
 
 
